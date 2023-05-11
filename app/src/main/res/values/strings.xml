@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotePass</string>
+    <string name="password">"Password"</string>
+    <string name="search">"Search"</string>
+    <string name="myNotes">"My Notes"</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="light_theme">Light Theme</string>
+</resources>
